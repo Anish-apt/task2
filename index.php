@@ -4,7 +4,7 @@ Welcome to my Website
 <body>
 <?php
 
-echo "<img src=''  width='600' height='600' />";
+echo "<img src=''  width='500' height='500' />";
   
 ?>
 </body>
